@@ -5,8 +5,14 @@
 	"authors": [
 		{
 			"name": "Uwe Hunfeld",
-			"email": "phpcrawl@cuab.de"
-		}
+			"email": "phpcrawl@cuab.de",
+			"role": "Developer"
+		},
+		{
+			"name": "James Shaver",
+			"email": "shavertech@protonmail.com",
+			"role": "Developer"
+		},
 	],
 	"autoload": {
 		"classmap": [
