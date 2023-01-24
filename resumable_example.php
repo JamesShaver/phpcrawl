@@ -28,7 +28,7 @@ $crawler = new MyCrawler();
 $crawler->setURL("www.php.net");
 $crawler->addContentTypeReceiveRule("#text/html#");
 $crawler->addURLFilterRule("#\.(jpg|jpeg|gif|png)$# i");
-$crawler->setPageLimit(50); // Set the page-limit to 50 for testing
+$crawler->setRequestLimit(50); // Set the page-limit to 50 for testing
 
 // Important for resumable scripts/processes!
 $crawler->enableResumption();
