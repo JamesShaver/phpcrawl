@@ -12,7 +12,7 @@
 			"name": "James Shaver",
 			"email": "shavertech@protonmail.com",
 			"role": "Developer"
-		},
+		}
 	],
 	"autoload": {
 		"classmap": [
