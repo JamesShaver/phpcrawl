@@ -10,6 +10,8 @@ class PHPCrawlerProcessHandler
   protected $crawler_uniqid;
   
   protected $working_directory;
+
+  protected $crawlerStatus;
   
   /**
    * Initiates a new PHPCrawlerProcessHandler-object.
