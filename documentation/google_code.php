@@ -11,7 +11,7 @@ if ($_SERVER["SERVER_NAME"] == "phpcrawl.cuab.de" || $_SERVER["SERVER_NAME"] == 
   </script>
 
   <div id="right">
-    <script type="text/javascript">    
+    <script type="text/javascript">
       google_ad_client = "ca-pub-4351312586851155";
       google_ad_slot = "1565633989";
       google_ad_width = 160;

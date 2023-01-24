@@ -501,7 +501,7 @@ class PHPCrawlerUtils
     // Array sortieren
     call_user_func_array("array_multisort", $params);
 
-    if(isset($array))@reset($array);
+    if (isset($array)) @reset($array);
   }
 
   /**

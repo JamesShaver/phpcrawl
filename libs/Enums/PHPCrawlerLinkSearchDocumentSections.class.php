@@ -26,4 +26,3 @@ class PHPCrawlerLinkSearchDocumentSections
    */
   const ALL_SPECIAL_SECTIONS = 7;
 }
-?>
